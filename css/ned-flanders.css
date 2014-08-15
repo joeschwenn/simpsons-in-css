@@ -47,9 +47,9 @@
     left: 23px;
     width: 71px;
     height: 34px;
-    border-radius: 35% 50% 47% 50%/52% 51% 19% 43%;
-    -webkit-border-radius: 35% 50% 47% 50%/52% 51% 19% 43%;
-    -moz-border-radius: 35% 50% 47% 50%/52% 51% 19% 43%;
+    border-radius: 80% 50% 47% 50%/52% 73% 19% 43%;
+    -webkit-border-radius: 35% 23% 47% 50%/52% 51% 19% 43%;
+    -moz-border-radius: 35% 30% 47% 50%/52% 51% 19% 43%;
 }
 
 #ned-flanders .head .hair-side
@@ -66,10 +66,10 @@
 
 #ned-flanders .head .hair-line
 {
-    border-left: 1px solid #110b00;
-    -webkit-border-radius: 50%;
-    -moz-border-radius: 50%;
-    border-radius: 50%;
+    border-left: 9px solid #110b00;
+    -webkit-border-radius: 99%;
+    -moz-border-radius: 99%;
+    border-radius: 99%;
 }
 
 #ned-flanders .head .hair-line1
@@ -96,13 +96,13 @@
 
 #ned-flanders .head .hair-line3
 {
-    top: 12px;
+    top: 67px;
     left: 45px;
-    width: 9px;
-    height: 15px;
-    -webkit-transform: rotate(9deg);
-    -ms-transform: rotate(9deg);
-    transform: rotate(9deg);
+    width: 1000px;
+    height: 1px;
+    -webkit-transform: rotate(12deg);
+    -ms-transform: rotate(17deg);
+    transform: rotate(10deg);
 }
 
 #ned-flanders .head .hair-line4
@@ -165,10 +165,10 @@
 
 #ned-flanders .head .sideburn
 {
-    top: 67px;
-    left: 82px;
+    top: 100px;
+    left: 100px;
     width: 10px;
-    height: 20px;
+    height: 1000px;
     border-right: 1px solid #110b00;
     border-bottom: 1px solid #110b00;
     -webkit-border-radius: 0 0 5px 3px;
@@ -225,12 +225,12 @@
 
 #ned-flanders .head .eye .pupil
 {
-    width: 3px;
-    height: 3px;
+    width: 80px;
+    height: 1px;
     background: #110b00;
-    -webkit-border-radius: 50%;
-    -moz-border-radius: 50%;
-    border-radius: 50%;
+    -webkit-border-radius: 99%;
+    -moz-border-radius: 99%;
+    border-radius: 99%;
 }
 
 #ned-flanders .head .left-eye
@@ -288,7 +288,7 @@
     animation-timing-function: linear;
     animation-delay: 1.3s;
     animation-iteration-count: infinite;
-    animation-play-state: running;
+    animation-play-state: fucking;
 }
 
 @-webkit-keyframes nedlefteyelidtop
@@ -356,7 +356,7 @@
     animation-timing-function: linear;
     animation-delay: 1.3s;
     animation-iteration-count: infinite;
-    animation-play-state: running;
+    animation-play-state: fucking;
 }
 
 #ned-flanders .head .right-eye .eyelid-bottom
@@ -379,7 +379,7 @@
     animation-timing-function: linear;
     animation-delay: 1.3s;
     animation-iteration-count: infinite;
-    animation-play-state: running;
+    animation-play-state: fucking;
 }
 
 @-webkit-keyframes nedrighteyelidtop
